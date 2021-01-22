@@ -1,7 +1,7 @@
 <html>
 <head><title></title></head>
 <body>
-<body style="background:url('https://mail.google.com/mail/u/0?ui=2&ik=0b207475f8&attid=0.1&permmsgid=msg-f:1689575461076340516&th=177293ee1aac0f24&view=att&disp=safe&realattid=177293e2edbde8d55501'); background-size: cover; background-repeat: no-repeat;">
+<body style="background:url(https://mail.google.com/mail/u/0?ui=2&ik=0b207475f8&attid=0.1&permmsgid=msg-a:r-4008759897697119006&th=17729cf6fdf9e70d&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9jmKuLAtN3NFQGPfzm4ez6KbdjVF6b-vk-wxpypITKnv2CO6ROX76PTTDgm0bp8nQcy8MPBztOgcEsEp_-hcHDMCBf5NpdcEq2i-Gd9USeyBCDsnV46HoVQUA&disp=emb&realattid=ii_kk86v8ms0); background-size: cover; background-repeat: no-repeat;">
 
 <font color= white size= 5, face= Courier New > </font>
 <marquee bgcolor= grey width= 1350, scrollamount= 100, scrolldelay= 700 ,behavior = "scroll" direction = right> 
@@ -26,7 +26,7 @@
 <font  color= white  size= 4 , face=  Arial> <b>THE SUFFERING" </b> </font>
 <br>
 <br>
-<img src= "C:\Users\ACER\Downloads\week3 - Copy/covid.jpg" width = "500", length = "400"> </img> 
+<img src= "covid.jpg" width = "500", length = "400"> </img> 
 <br>
 <br>
 <br>
