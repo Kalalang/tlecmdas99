@@ -1,7 +1,7 @@
 <html>
 <head><title></title></head>
 <body>
-<body background= "https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-0/p180x540/141811862_430383618164827_9036148761284564258_o.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_eui2=AeHl8_Hsik1LquuRk0b_-XjFrFHh1QyBL96sUeHVDIEv3lS3n6YObTXDU3Y48xNSU0ObwJ6XJLFJs1q8JoD2z-WQ&_nc_ohc=Idi_yzrkC4AAX810SmW&_nc_ht=scontent.fceb1-1.fna&tp=6&oh=2d4d49d18a2ab79741928bd509f74218&oe=602FBEC3"; background-size: cover; background-repeat: no-repeat;">
+<body background= "https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-0/p180x540/141811862_430383618164827_9036148761284564258_o.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_eui2=AeHl8_Hsik1LquuRk0b_-XjFrFHh1QyBL96sUeHVDIEv3lS3n6YObTXDU3Y48xNSU0ObwJ6XJLFJs1q8JoD2z-WQ&_nc_ohc=Idi_yzrkC4AAX810SmW&_nc_ht=scontent.fceb1-1.fna&tp=6&oh=2d4d49d18a2ab79741928bd509f74218&oe=602FBEC3"; background-size: 100%; background-repeat: no-repeat;">
 
 <font color= white size= 5, face= Courier New > </font>
 <marquee bgcolor= grey width= 1350, scrollamount= 100, scrolldelay= 700 ,behavior = "scroll" direction = right> 
